@@ -1,0 +1,5 @@
+-- DDL (Data Defenition Language) create, alter, rename, truncate, drop
+-- DML (Data Manipulation Language) update, delete, insert
+-- DQL (Data Query Language) select
+-- DCL (Data Control Language) grant and revoke permissions
+-- TCL (Transaction Control Language) start transaction, commit, rollback etc...
